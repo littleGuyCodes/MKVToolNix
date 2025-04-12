@@ -1,0 +1,11 @@
+.\yt-dlp.exe -v -f "m4a/ba/best" -o "%(title)s.f%(format_id)s.%(ext)s" https://youtu.be/VAhk3VCFmUM?si=go9O-fFox67TECs0
+.\yt-dlp.exe -v -f "m4a/ba/best" -o "%(title)s.f%(format_id)s.%(ext)s" https://youtu.be/_Ynqv2dyyRI?si=exSRxlMZ5y-kxAZu
+.\yt-dlp.exe -v -f "m4a/ba/best" -o "%(title)s.f%(format_id)s.%(ext)s" https://youtu.be/BpAXzTpANNw?si=VolNtCkEmuXs6jHD
+.\yt-dlp.exe -v -f "m4a/ba/best" -o "%(title)s.f%(format_id)s.%(ext)s" https://youtu.be/yyq98NF3Lnw?si=VmVr2O5gLL37NFVD
+.\yt-dlp.exe -v -f "m4a/ba/best" -o "%(title)s.f%(format_id)s.%(ext)s" https://youtu.be/IgDTV-t6w40?si=pgVzAlWJKXw0L1Hh
+.\yt-dlp.exe -v -f "m4a/ba/best" -o "%(title)s.f%(format_id)s.%(ext)s" https://youtu.be/9bXXUCSi4yI?si=ojxjtYDuTYpirhzp
+.\yt-dlp.exe -v -f "m4a/ba/best" -o "%(title)s.f%(format_id)s.%(ext)s" https://youtu.be/PxN3C5or_XM?si=e1SKJaiMiYku7vVQ
+.\yt-dlp.exe -v -f "m4a/ba/best" -o "%(title)s.f%(format_id)s.%(ext)s" https://youtu.be/REiPtG1p3pQ?si=k2kEqPn6p3dKSY9Q
+.\yt-dlp.exe -v -f "m4a/ba/best" -o "%(title)s.f%(format_id)s.%(ext)s" https://youtu.be/VpYhfuG4i7w?si=pdf-7hDuj5kBjg1s
+.\yt-dlp.exe -v -f "m4a/ba/best" -o "%(title)s.f%(format_id)s.%(ext)s" https://www.youtube.com/watch?v=iN9CjAfo5n0
+.\yt-dlp.exe -v -f "m4a/ba/best" -o "%(title)s.f%(format_id)s.%(ext)s" https://www.youtube.com/watch?v=PRpiBpDy7MQ
